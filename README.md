@@ -1,7 +1,6 @@
 # Nmax
 
-Parser for a file
-Searches for maximum values
+Parser for a file. Searches for maximum values
 
 ## Installation
 
